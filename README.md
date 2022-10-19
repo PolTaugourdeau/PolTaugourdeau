@@ -8,7 +8,7 @@
   <tr>
   <td>
 	<a href="https://www.artstation.com/poltaugourdeau">
-  		<img src="[https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png](https://cdna.artstation.com/p/assets/images/images/054/470/992/large/pol-taugourdeau-pascual-baseprespectiva.jpg?1664621120)">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/054/470/992/large/pol-taugourdeau-pascual-baseprespectiva.jpg?1664621120">
 	</a>
 	</td>
   <td>
