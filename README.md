@@ -9,7 +9,7 @@
 
 ## *Here you can see some of my work:*
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
   <td>
 	<a href="https://www.artstation.com/poltaugourdeau">
