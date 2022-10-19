@@ -63,8 +63,8 @@
 	</a>
 	</td>
   <td>
-	<a href="[https://www.artstation.com/poltaugourdeau](https://www.unrealengine.com/es-ES)">
-  		<img src="[https://cdnb.artstation.com/p/assets/images/images/054/586/813/large/pol-taugourdeau-pascual-captura01.jpg?1664889743](https://cdn2.unrealengine.com/ue-logo-1400x788-1400x788-8f185e1e3635.jpg)">
+	<a href="https://www.unrealengine.com/es-ES">
+  		<img src="https://cdn2.unrealengine.com/ue-logo-1400x788-1400x788-8f185e1e3635.jpg">
 	</a>
 	</td>
   </tr>
