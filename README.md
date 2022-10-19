@@ -50,7 +50,6 @@
 
 ## I can also programming different languages:
 - C
-- ![C](https://img.shields.io/badge/Adobe_Audition-7F7AC9?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=262076)]()
 - C#
 - HTML
 - CSS
