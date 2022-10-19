@@ -25,7 +25,7 @@
 	</td>
 	<td>
 	<a href="https://www.artstation.com/poltaugourdeau">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/045/419/165/large/pol-taugourdeau-cetro1.jpg?1642675449">
 	</a>
 	</td>
 	</td>
