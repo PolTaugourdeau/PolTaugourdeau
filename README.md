@@ -2,6 +2,11 @@
 
 ### I am a student of 3d modeling in [CEV Barcelona](https://www.cevbarcelona.com/)
 
+#### Programs I use for 3D:
+- ***Maya 3D***
+- ***3D Max***
+- ***Zbrush***
+
 ## *Here you can see some of my work:*
 
 <table style="width:100%">
