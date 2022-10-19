@@ -54,7 +54,7 @@
 - HTML
 - CSS
 
-## Programs I use:
+## Programs I use to program:
 <table style="width:50%">
   <tr>
   <td>
