@@ -48,6 +48,12 @@
   </tr>
 </table>
 
+## I can also programming different languages:
+- C
+- C#
+- HTML
+- CSS
+
 ## Contact:
 - Gmail: **poltaugourdeau11@gmail.com**	
 - Artstation: [Pol Taugourdeau](https://www.artstation.com/poltaugourdeau)
