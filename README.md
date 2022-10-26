@@ -49,13 +49,10 @@
 </table>
 
 ## I can also programming different languages:
-- C
-- C#
-
-- [(https://img.shields.io/badge/HTML-999999?style=plastic)]
-
-
-- CSS
+- ![C](https://img.shields.io/badge/Cs-999999?style=plastic)
+- ![C#](https://img.shields.io/badge/C#-999999?style=plastic)
+- ![HTML](https://img.shields.io/badge/HTML-999999?style=plastic)
+- ![CSS](https://img.shields.io/badge/CSS-999999?style=plastic)
 
 ## Programs I use to program:
 <table style="width:50%">
