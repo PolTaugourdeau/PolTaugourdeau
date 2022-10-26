@@ -67,6 +67,7 @@
   		<img src="https://cdn2.unrealengine.com/ue-logo-1400x788-1400x788-8f185e1e3635.jpg">
 	</a>
 	</td>
+	</tr>
   </table>
 ## Download my games in:
   
@@ -77,6 +78,7 @@
   		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEU5pRM2_pipPN9cnR05_eGkHQg83sST0mk4V1dqtm6cY4MuOFcHki0LPTWBA_7Cl_PE&usqp=CAU">
 	</a>
 	</td>
+	  </tr>
 </table>
 
 ## Contact:
