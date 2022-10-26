@@ -69,7 +69,7 @@
 	</td>
   </td>
   </table>
-<table style="width:100%">
+<table style="width:30%">
   <tr>
   <td>
 	<a href="https://pol-taug.itch.io/">
