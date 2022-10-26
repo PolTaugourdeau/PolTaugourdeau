@@ -73,7 +73,7 @@
   <tr>
   <td>
 	<a href="https://pol-taug.itch.io/">
-  		<img src="">
+  		<img src="https://static.itch.io/images/itchio-black.png">
 	</a>
 	</td>
   </tr>
