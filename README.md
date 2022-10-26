@@ -67,7 +67,6 @@
   		<img src="https://cdn2.unrealengine.com/ue-logo-1400x788-1400x788-8f185e1e3635.jpg">
 	</a>
 	</td>
-  </td>
   </table>
 ## Download my games in:
   
