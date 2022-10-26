@@ -4,7 +4,7 @@
 
 #### Programs I use for 3D:
 - [***Maya 3D***](https://www.autodesk.es/products/maya/free-trial)
-- [***3D Max***](https://www.autodesk.es/products/3ds-max/overview?us_oa=dotcom-us&us_si=0052d832-e931-48c5-a8e5-6c2a733d6dec&us_pt=3DSMAX&us_at=3ds%20Max&term=1-YEAR&tab=subscription&plc=3DSMAX)
+- [![3DMAX BADGE](https://img.shields.io/badge/Autodesk_3DS_Max-FFFFFF?style=for-the-badge&logo=autodesk&logoColor=000000&labelColor=01BDE7)](https://www.autodesk.es/products/3ds-max/overview?us_oa=dotcom-us&us_si=0052d832-e931-48c5-a8e5-6c2a733d6dec&us_pt=3DSMAX&us_at=3ds%20Max&term=1-YEAR&tab=subscription&plc=3DSMAX)
 - [***Zbrush***](https://pixologic.com/)
 
 ## *Here you can see some of my work:*
@@ -51,7 +51,10 @@
 ## I can also programming different languages:
 - C
 - C#
-- HTML
+
+- [(https://img.shields.io/badge/HTML-999999?style=plastic)]
+
+
 - CSS
 
 ## Programs I use to program:
