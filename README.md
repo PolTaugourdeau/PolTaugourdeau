@@ -71,6 +71,7 @@
 </table>
 
 ## Contact:
+- Itch.io: **https://pol-taug.itch.io/**
 - Gmail: **poltaugourdeau11@gmail.com**	
 - Artstation: [Pol Taugourdeau](https://www.artstation.com/poltaugourdeau)
 - Linkedin: [Pol Taugourdeau](https://www.linkedin.com/in/pol-taugourdeau-pascual-2a8639251/)
