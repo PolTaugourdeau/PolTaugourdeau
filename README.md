@@ -69,11 +69,11 @@
 	</td>
   </td>
   </table>
-<table style="width:50%">
+<table style="width:100%">
   <tr>
   <td>
 	<a href="https://pol-taug.itch.io/">
-  		<img src="https://static.itch.io/images/itchio-black.png">
+  		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEU5pRM2_pipPN9cnR05_eGkHQg83sST0mk4V1dqtm6cY4MuOFcHki0LPTWBA_7Cl_PE&usqp=CAU">
 	</a>
 	</td>
   </tr>
