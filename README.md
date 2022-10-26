@@ -77,7 +77,6 @@
   		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEU5pRM2_pipPN9cnR05_eGkHQg83sST0mk4V1dqtm6cY4MuOFcHki0LPTWBA_7Cl_PE&usqp=CAU">
 	</a>
 	</td>
-  </tr>
 </table>
 
 ## Contact:
