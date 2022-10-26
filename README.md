@@ -70,7 +70,7 @@
   </table>
 ## Download my games in:
   
-<table style="width:30%">
+<table style="width:100%">
   <tr>
   <td>
 	<a href="https://pol-taug.itch.io/">
