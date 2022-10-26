@@ -69,7 +69,7 @@
 	</td>
 	</tr>
   </table>
-## Download my games in:
+Download my games in:
   
 <table style="width:100%">
   <tr>
