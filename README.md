@@ -68,16 +68,7 @@
 	</a>
 	</td>
   </tr>
-</table>
-<table style="width:50%">
-  <tr>
-  <td>
-	<a href="https://pol-taug.itch.io/">
-  		<img src="https://static.itch.io/images/itchio-black.png">
-	</a>
-	</td>
-  </tr>
-</table>
+
 ## Contact:
 - Itch.io: [link](https://pol-taug.itch.io/)
 - Gmail: **poltaugourdeau11@gmail.com**	
